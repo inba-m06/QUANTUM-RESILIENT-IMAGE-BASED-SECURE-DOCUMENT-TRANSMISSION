@@ -1,0 +1,6 @@
+________________________________________________________________________________
+
+		FILE = /mnt/c/Users/DELL/Downloads/VisualCryptography/VisualCryptography/all_cipher_bits_combined.txt		ALPHA = 0.0100
+________________________________________________________________________________
+
+		BITSREAD = 1455 0s = 0 1s = 1455
